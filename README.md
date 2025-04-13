@@ -6,7 +6,7 @@
 ДЗ выполнялось по инструкции на VM centos/stream9 v.20250331.0.
 Vagrantfile создает 3 VM ipa server, client1, client2.
 
-Необходимые настройки и установку ip сервера выполнаяет ansible-workbook ldap_ipasrv.yml
+Необходимые настройки и установку ip сервера выполняет ansible-workbook ldap_ipasrv.yml
 
 
 Конфигурирование ipa сервера:
