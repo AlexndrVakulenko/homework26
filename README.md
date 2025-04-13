@@ -17,6 +17,7 @@ Vagrantfile создает 3 VM ipa server, client1, client2.
 
 Настройку клиентов выполнаяет ansible-workbook ldap_clients.yml
 
+
 Создание пользователя на сервере:
 ![Image alt](https://github.com/AlexndrVakulenko/homework26/blob/main/screenshots/03_create_user.png)
 
